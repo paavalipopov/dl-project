@@ -1,0 +1,15 @@
+name: pe_transformer
+
+# data_type: TS # optional (default: TS), TS, FNC, TS-FNC.
+# allow_test_ds: True # optional (default: False), True, False
+
+# tunable: True # optional (default: True), True, False;
+# default_HP: False # optional (default: False), True, False; 
+
+
+# require_data_postproc: False # optional (default: False), True, False; 
+# custom_dataloader: False # optional (default: False), True, False; 
+# custom_criterion: False # optional (default: False), True, False; 
+# custom_optimizer: False # optional (default: False), True, False; 
+# custom_scheduler: False # optional (default: False), True, False; 
+# custom_trainer: False # optional (default: False), True, False; 
